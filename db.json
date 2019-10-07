@@ -1,0 +1,28 @@
+{
+  "personas":[
+    {
+      "id" : 0,
+      "name": "Lucia Martines",
+      "email" : "carlo.gammarota@gmail.com",
+      "phone": "123453321"
+    },
+    {
+      "id": 2,
+      "name": "Guillermo Torax",
+      "email": "guillermotorax@gmail.com",
+      "phone": "4123123"
+    },
+    {
+      "id": 3,
+      "name": "Carolina Herrera",
+      "email": "carolinaherrera@gmail.com",
+      "phone": "3412314"
+    },
+    {
+      "id": 4,
+      "name": "Stuart Martinez",
+      "email": "stuartmartinez@gmail.com",
+      "phone": "4324234"
+    }
+  ],
+}
